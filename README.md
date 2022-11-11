@@ -38,6 +38,30 @@ capitulo 2.-
 [![imagen-2022-11-11-090944447.png](https://i.postimg.cc/gjgHmgJG/imagen-2022-11-11-090944447.png)](https://postimg.cc/YLmWxfYP)
 
 3.- Resolucion de los problemas 
+
 [![imagen-2022-11-11-103158926.png](https://i.postimg.cc/65rKwQDj/imagen-2022-11-11-103158926.png)](https://postimg.cc/9rQKYcXZ)
+
 [![imagen-2022-11-11-103230178.png](https://i.postimg.cc/nrxd1n0r/imagen-2022-11-11-103230178.png)](https://postimg.cc/vgPLYwRw)
+
+[![imagen-2022-11-11-103407491.png](https://i.postimg.cc/cC1RHCFR/imagen-2022-11-11-103407491.png)](https://postimg.cc/YGVGDrK0)
+
+[![imagen-2022-11-11-103503644.png](https://i.postimg.cc/t4GgtwHf/imagen-2022-11-11-103503644.png)](https://postimg.cc/6yzwBHqL)
+
+[![imagen-2022-11-11-103553857.png](https://i.postimg.cc/nc4X5pTZ/imagen-2022-11-11-103553857.png)](https://postimg.cc/D8zf4VtY)
+
+[![imagen-2022-11-11-103631468.png](https://i.postimg.cc/K8c8HLRr/imagen-2022-11-11-103631468.png)](https://postimg.cc/VdTwSJ9d)
+
+Capitulo 2 
+
+[![imagen-2022-11-11-103723907.png](https://i.postimg.cc/PJdg5bGS/imagen-2022-11-11-103723907.png)](https://postimg.cc/BLwYhKnF)
+
+[![imagen-2022-11-11-103800322.png](https://i.postimg.cc/tCMMKGgS/imagen-2022-11-11-103800322.png)](https://postimg.cc/Mv15B4VV)
+
+[![imagen-2022-11-11-103839545.png](https://i.postimg.cc/y80yvM3S/imagen-2022-11-11-103839545.png)](https://postimg.cc/jDdfjkXs)
+
+![image](https://user-images.githubusercontent.com/117742027/201374169-74783dac-0046-4b7f-b13b-d4e15149cff3.png)
+![image](https://user-images.githubusercontent.com/117742027/201374224-ff120984-2255-484e-b333-86993ae71518.png)
+
+
+
 

@@ -86,7 +86,7 @@ aprendemos a identificar las resistencias utilizando los colores de esta
 
 ![image](https://user-images.githubusercontent.com/117742027/201374716-f91de730-d031-4111-b9b9-93ae7adff90c.png)
 
-4.-Video : 
+4.-Video : https://youtu.be/Kuwr21tSECQ
 
 5.- Conclusiones: 
 

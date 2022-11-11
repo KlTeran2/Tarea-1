@@ -41,28 +41,49 @@ capitulo 2.-
 3.- Resolucion de los problemas 
 
 [![imagen-2022-11-11-103158926.png](https://i.postimg.cc/65rKwQDj/imagen-2022-11-11-103158926.png)](https://postimg.cc/9rQKYcXZ)
+
 Es teoria dada en el capitulo 1 
+
 [![imagen-2022-11-11-103230178.png](https://i.postimg.cc/nrxd1n0r/imagen-2022-11-11-103230178.png)](https://postimg.cc/vgPLYwRw)
+
 aqui escribimos las cifras en notacion cientifica corriendo cifras y multiplicando los 0 por 10 
+
 [![imagen-2022-11-11-103407491.png](https://i.postimg.cc/cC1RHCFR/imagen-2022-11-11-103407491.png)](https://postimg.cc/YGVGDrK0)
+
 aca operaciones con notacion cientifica usando las reglas de los exponentes 
+
 [![imagen-2022-11-11-103503644.png](https://i.postimg.cc/t4GgtwHf/imagen-2022-11-11-103503644.png)](https://postimg.cc/6yzwBHqL)
+
 utilizamos la notacion de ingenieria que es similar a la cientifica pero tiene que ser multiplo de 3 el exponente 
+
 [![imagen-2022-11-11-103553857.png](https://i.postimg.cc/nc4X5pTZ/imagen-2022-11-11-103553857.png)](https://postimg.cc/D8zf4VtY)
+
 operaciones con las notacion de ingenieria y empezamos la utilizacion de prefijos de medidas
+
 [![imagen-2022-11-11-103631468.png](https://i.postimg.cc/K8c8HLRr/imagen-2022-11-11-103631468.png)](https://postimg.cc/VdTwSJ9d)
+
 y aca hacemos conversion de los prefijos ademas de unas operaciones de prefijos  para igualar y poder operar las cantidades.
+
 Capitulo 2 
 
 [![imagen-2022-11-11-103723907.png](https://i.postimg.cc/PJdg5bGS/imagen-2022-11-11-103723907.png)](https://postimg.cc/BLwYhKnF)
 
+teoria con respecto al atomo y cargas electricas 
+
 [![imagen-2022-11-11-103800322.png](https://i.postimg.cc/tCMMKGgS/imagen-2022-11-11-103800322.png)](https://postimg.cc/Mv15B4VV)
-
+ 
+ aqui aplicamos la formula para saber los coulombs de un atomo 
+ 
 [![imagen-2022-11-11-103839545.png](https://i.postimg.cc/y80yvM3S/imagen-2022-11-11-103839545.png)](https://postimg.cc/jDdfjkXs)
-
+ operamos con medidas de corrientes es decir itensidad , watts entre otros 
+ 
 ![image](https://user-images.githubusercontent.com/117742027/201374169-74783dac-0046-4b7f-b13b-d4e15149cff3.png)
+
 ![image](https://user-images.githubusercontent.com/117742027/201374224-ff120984-2255-484e-b333-86993ae71518.png)
 ![image](https://user-images.githubusercontent.com/117742027/201374545-22a76951-4909-45ba-b883-cb9ce1165cd6.png)
+
+aprendemos a identificar las resistencias utilizando los colores de esta 
+
 ![image](https://user-images.githubusercontent.com/117742027/201374716-f91de730-d031-4111-b9b9-93ae7adff90c.png)
 
 4.-Video : 

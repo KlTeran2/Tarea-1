@@ -67,6 +67,7 @@ Capitulo 2
 4.-Video : 
 
 5.- Conclusiones: 
+
 1.- Puedo decir que es muy interesante y demasiado util el conocer las medidas del sistema internacional asi como el escribir numeros en notacion cientifica e ingenieria para la carrera que estoy estudiando ademas de los prefijos de medida para poder entender cuando alguien se refiere a una cantidad muy grande o muy pequeña de algo ya que es mas facil entender 1 kW que 1000 W .
 
 2.- tambien es importante conocer como funciona la electricidad que direccion toma y porque se da ademas de conocer partes de los circuitos y poder medir las resistencias voltaje y carga electrica ademas de saber las definiciones y caracteristicas de estos mismos.
@@ -74,6 +75,7 @@ Capitulo 2
 3.- el aprendizaje recopilado fur muy grande y util para esta materia almenos como bases ya que sirvio para comprender algunas cosas que antes no se comprendian del todo y saber medir muchas cosas relacionadas a los circuitos electricos.
 
 6.- Bibliografia
+
 
 
 

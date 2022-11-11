@@ -23,6 +23,7 @@ NRC:10067
 2.- Marco Teórico
 
 Capitulo 1.-  
+
 [![imagen-2022-11-11-085504756.png](https://i.postimg.cc/hGkwR5dT/imagen-2022-11-11-085504756.png)](https://postimg.cc/SXGVWVVx)
 [![imagen-2022-11-11-090338511.png](https://i.postimg.cc/nV2sRsgY/imagen-2022-11-11-090338511.png)](https://postimg.cc/PNLrNqtP)
 [![imagen-2022-11-11-090403648.png](https://i.postimg.cc/B6s6NsCV/imagen-2022-11-11-090403648.png)](https://postimg.cc/jWgtdpmH)
@@ -40,17 +41,17 @@ capitulo 2.-
 3.- Resolucion de los problemas 
 
 [![imagen-2022-11-11-103158926.png](https://i.postimg.cc/65rKwQDj/imagen-2022-11-11-103158926.png)](https://postimg.cc/9rQKYcXZ)
-
+Es teoria dada en el capitulo 1 
 [![imagen-2022-11-11-103230178.png](https://i.postimg.cc/nrxd1n0r/imagen-2022-11-11-103230178.png)](https://postimg.cc/vgPLYwRw)
-
+aqui escribimos las cifras en notacion cientifica corriendo cifras y multiplicando los 0 por 10 
 [![imagen-2022-11-11-103407491.png](https://i.postimg.cc/cC1RHCFR/imagen-2022-11-11-103407491.png)](https://postimg.cc/YGVGDrK0)
-
+aca operaciones con notacion cientifica usando las reglas de los exponentes 
 [![imagen-2022-11-11-103503644.png](https://i.postimg.cc/t4GgtwHf/imagen-2022-11-11-103503644.png)](https://postimg.cc/6yzwBHqL)
-
+utilizamos la notacion de ingenieria que es similar a la cientifica pero tiene que ser multiplo de 3 el exponente 
 [![imagen-2022-11-11-103553857.png](https://i.postimg.cc/nc4X5pTZ/imagen-2022-11-11-103553857.png)](https://postimg.cc/D8zf4VtY)
-
+operaciones con las notacion de ingenieria y empezamos la utilizacion de prefijos de medidas
 [![imagen-2022-11-11-103631468.png](https://i.postimg.cc/K8c8HLRr/imagen-2022-11-11-103631468.png)](https://postimg.cc/VdTwSJ9d)
-
+y aca hacemos conversion de los prefijos ademas de unas operaciones de prefijos  para igualar y poder operar las cantidades.
 Capitulo 2 
 
 [![imagen-2022-11-11-103723907.png](https://i.postimg.cc/PJdg5bGS/imagen-2022-11-11-103723907.png)](https://postimg.cc/BLwYhKnF)

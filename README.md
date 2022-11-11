@@ -2,7 +2,8 @@
                                                                              Tarea#1
 Ing. Darwin Alulema
 
-Estudiante: Kail Lenin Terán Fierro                                                                                               NRC:10067
+Estudiante: Kail Lenin Terán Fierro                                                                                              
+NRC:10067
 
 1.-Objetivos
 
@@ -35,3 +36,8 @@ capitulo 2.-
 [![imagen-2022-11-11-090849147.png](https://i.postimg.cc/K8qwJ5DS/imagen-2022-11-11-090849147.png)](https://postimg.cc/k2ST5KHf)
 [![imagen-2022-11-11-090909148.png](https://i.postimg.cc/KvmWbW9h/imagen-2022-11-11-090909148.png)](https://postimg.cc/7bQ9MK8K)
 [![imagen-2022-11-11-090944447.png](https://i.postimg.cc/gjgHmgJG/imagen-2022-11-11-090944447.png)](https://postimg.cc/YLmWxfYP)
+
+3.- Resolucion de los problemas 
+[![imagen-2022-11-11-103158926.png](https://i.postimg.cc/65rKwQDj/imagen-2022-11-11-103158926.png)](https://postimg.cc/9rQKYcXZ)
+[![imagen-2022-11-11-103230178.png](https://i.postimg.cc/nrxd1n0r/imagen-2022-11-11-103230178.png)](https://postimg.cc/vgPLYwRw)
+

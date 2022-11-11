@@ -98,6 +98,7 @@ aprendemos a identificar las resistencias utilizando los colores de esta
 
 6.- Bibliografia
 
-
+Floyd , Thomas L. (2007) Principios de los circuitos electronicos. Pearson educacion
+ Circuitos electronicos. (2016, 02 septiembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/circuitos-electronicos/
 
 

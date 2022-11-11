@@ -25,3 +25,6 @@ Capitulo 1.-
 [![imagen-2022-11-11-085504756.png](https://i.postimg.cc/hGkwR5dT/imagen-2022-11-11-085504756.png)](https://postimg.cc/SXGVWVVx)
 [![imagen-2022-11-11-090338511.png](https://i.postimg.cc/nV2sRsgY/imagen-2022-11-11-090338511.png)](https://postimg.cc/PNLrNqtP)
 [![imagen-2022-11-11-090403648.png](https://i.postimg.cc/B6s6NsCV/imagen-2022-11-11-090403648.png)](https://postimg.cc/jWgtdpmH)
+capitulo 2.- 
+[![imagen-2022-11-11-090504503.png](https://i.postimg.cc/VL3zDmfW/imagen-2022-11-11-090504503.png)](https://postimg.cc/gnH9096x)
+[![imagen-2022-11-11-090535231.png](https://i.postimg.cc/QCFrJnvz/imagen-2022-11-11-090535231.png)](https://postimg.cc/GTnNczLP)

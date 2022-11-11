@@ -1,8 +1,11 @@
-                                                              Fundamentos de Circuitos Electrónicos
+                                                               Universidad de las Fuerzas Armadas
+                                                                             (ESPE)
+                                                               Fundamentos de Circuitos Electrónicos
                                                                              Tarea#1
 Ing. Darwin Alulema
 
-Estudiante: Kail Lenin Terán Fierro                                                                                              
+Estudiante: Kail Lenin Terán Fierro       
+
 NRC:10067
 
 1.-Objetivos
